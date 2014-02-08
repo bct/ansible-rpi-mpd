@@ -1,0 +1,6 @@
+Interface=wlan0
+Connection=wireless
+Security=wpa
+ESSID=cannery\ rowter
+IP=dhcp
+Key=xxxxxxxxx
